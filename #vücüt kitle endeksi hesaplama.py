@@ -2,7 +2,7 @@
 
 boy=float(input("boyunuzu giriniz(m): "))
 kilo=float(input("kilonuzu giriniz(kg): "))
-vki=kilo / (boy*boy)
+vki=kilo / (boy*boy)  #Vücut kitle endeksi.
 
 if vki <18.5 :
         print("zayıfsınız.")
