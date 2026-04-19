@@ -1,7 +1,3 @@
-# <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Hamza+Çelik;Penetration+Tester;Offensive+Security+Specialist" alt="Typing SVG" />
-</p>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HamzaCelikk&theme=matrix&no-bg=true&no-frame=true&column=7" />
 </p>
