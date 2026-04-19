@@ -1,7 +1,5 @@
 # <p align="center">Hamza Çelik | GitHub Profile README</p>
 
-![Corporate Banner](banner.png)
-
 <div align="center">
   <h3>"Python Developer | Cybersecurity Specialist | Linux Advocate"</h3>
 </div>
