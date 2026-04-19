@@ -26,19 +26,6 @@ I am a dedicated cybersecurity professional and software developer focused on bu
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamzaCelikk&show_icons=true&theme=graphite&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaCelikk&layout=compact&theme=graphite&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaCelikk&theme=graphite&hide_border=true" width="100%" />
-</p>
-
----
-
 ### 📬 Connect with Me
 - **LinkedIn:** [hamzacelikk](https://linkedin.com/in/hamzacelikk)
 - **GitHub:** [@HamzaCelikk](https://github.com/HamzaCelikk)
