@@ -44,7 +44,7 @@ I am a dedicated cybersecurity professional and software developer focused on bu
 ---
 
 ### 📬 Connect with Me
-- **LinkedIn:** [hamzacelikk](https://linkedin.com/in/) *<!-- Add your link here -->*
+- **LinkedIn:** [hamzacelikk](https://linkedin.com/in/hamzacelikk)
 - **GitHub:** [@HamzaCelikk](https://github.com/HamzaCelikk)
 
 ---
