@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HamzaCelikk&theme=matrix&no-bg=true&no-frame=true&column=7" />
-</p>
-
----
-
 ### 🛡️ Profesyonel Genel Bakış
 Uzman bir sızma testi uzmanı ve saldırı güvenliği araştırmacısıyım. Çalışmalarım, Python kullanarak güvenlik açıklarını belirleme, istismar geliştirme ve güvenlik değerlendirmelerini otomatikleştirme üzerine odaklanmaktadır. Karmaşık kod yapıları ile güvenli altyapı arasındaki boşluğu dolduruyorum.
 
